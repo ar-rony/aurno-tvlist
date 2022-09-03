@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aurno-tvlist/static/css/main.073c9b0a.css",
+    "main.js": "/aurno-tvlist/static/js/main.a47842bf.js",
+    "static/js/787.dc3afaac.chunk.js": "/aurno-tvlist/static/js/787.dc3afaac.chunk.js",
+    "static/media/logo.svg": "/aurno-tvlist/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aurno-tvlist/index.html",
+    "main.073c9b0a.css.map": "/aurno-tvlist/static/css/main.073c9b0a.css.map",
+    "main.a47842bf.js.map": "/aurno-tvlist/static/js/main.a47842bf.js.map",
+    "787.dc3afaac.chunk.js.map": "/aurno-tvlist/static/js/787.dc3afaac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a47842bf.js"
+  ]
+}
